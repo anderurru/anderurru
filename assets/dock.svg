@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 95" width="800" height="95">
+  <defs>
+    <filter id="ds"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.35"/></filter>
+    <linearGradient id="dg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3D3730" stop-opacity="0.85"/><stop offset="100%" stop-color="#24211D" stop-opacity="0.95"/></linearGradient>
+  </defs>
+  <rect x="100" y="12" width="600" height="70" rx="20" fill="url(#dg)" stroke="#5B5349" stroke-width="1" filter="url(#ds)"/>
+  <g transform="translate(135, 24)">
+    <g transform="translate(0, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="13" font-weight="bold" fill="#E8D8C8" text-anchor="middle">☕ Java</text><circle cx="23" cy="52" r="2" fill="#E8D8C8"/></g>
+    <g transform="translate(62, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="12" font-weight="bold" fill="#B08968" text-anchor="middle">🐘 PHP</text><circle cx="23" cy="52" r="2" fill="#E8D8C8"/></g>
+    <g transform="translate(124, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="13" font-weight="bold" fill="#F7DF1E" text-anchor="middle">JS</text><circle cx="23" cy="52" r="2" fill="#E8D8C8"/></g>
+    <g transform="translate(186, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="12" font-weight="bold" fill="#E44D26" text-anchor="middle">&lt;/&gt;</text><circle cx="23" cy="52" r="2" fill="#E8D8C8"/></g>
+    <g transform="translate(248, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="11" font-weight="bold" fill="#00758F" text-anchor="middle">SQL</text><circle cx="23" cy="52" r="2" fill="#E8D8C8"/></g>
+    <g transform="translate(310, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="12" font-weight="bold" fill="#F05032" text-anchor="middle">Git</text><circle cx="23" cy="52" r="2" fill="#E8D8C8"/></g>
+    <line x1="372" y1="8" x2="372" y2="38" stroke="#524A41" stroke-width="1.5"/>
+    <g transform="translate(390, 0)"><rect width="46" height="46" rx="10" fill="#423C34" stroke="#685F53"/><text x="23" y="28" font-family="sans-serif" font-size="18" text-anchor="middle">🪶</text><circle cx="23" cy="52" r="2" fill="#8BB174"/></g>
+    <g transform="translate(452, 0)"><rect width="46" height="46" rx="10" fill="#1C1A19" stroke="#48423B"/><text x="23" y="28" font-family="monospace" font-size="14" font-weight="bold" fill="#8BB174" text-anchor="middle">&gt;_</text><circle cx="23" cy="52" r="2" fill="#8BB174"/></g>
+    <g transform="translate(514, 0)"><rect width="46" height="46" rx="10" fill="#2E2B27" stroke="#4D463E"/><text x="23" y="28" font-family="sans-serif" font-size="16" text-anchor="middle">📂</text></g>
+  </g>
+</svg>

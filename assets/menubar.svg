@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 34" width="800" height="34">
+  <defs>
+    <filter id="sh" x="-5%" y="-5%" width="110%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.25"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2D2B28" stop-opacity="0.95"/><stop offset="100%" stop-color="#211F1D" stop-opacity="0.98"/></linearGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="32" rx="8" fill="url(#bg)" stroke="#4A453E" stroke-width="0.8" filter="url(#sh)"/>
+  <g transform="translate(18, 8)">
+    <path d="M7 1 C4 4, 1 9, 2 13 C3 15, 6 15, 8 13 C10 10, 11 5, 11 2 Z" fill="#E8D8C8"/>
+    <path d="M2 13 L0 16 L3 15" stroke="#B08968" stroke-width="1" fill="none"/>
+  </g>
+  <text x="38" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#F5EBE1">Ander Urrutia</text>
+  <text x="150" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#D3C5B4">Archivo</text>
+  <text x="205" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#D3C5B4">Editar</text>
+  <text x="252" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#D3C5B4">Ver</text>
+  <text x="285" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#D3C5B4">Ventana</text>
+  <text x="350" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#D3C5B4">Ayuda</text>
+  <g transform="translate(680, 10)" fill="#D3C5B4">
+    <path d="M0 11 A8 8 0 0 1 12 11 M2 8 A5 5 0 0 1 10 8 M4 5 A2 2 0 0 1 8 5" stroke="#D3C5B4" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    <rect x="22" y="1" width="16" height="9" rx="2" fill="none" stroke="#D3C5B4" stroke-width="1"/>
+    <rect x="24" y="3" width="10" height="5" rx="1" fill="#8BB174"/>
+    <path d="M39 4 L39 7" stroke="#D3C5B4" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+  <text x="732" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#F5EBE1">DAW 2</text>
+</svg>
